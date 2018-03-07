@@ -1,3 +1,3 @@
 mohan
 kumar R
-A=20
+A=50
